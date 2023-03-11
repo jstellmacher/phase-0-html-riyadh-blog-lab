@@ -62,7 +62,9 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color:blue;
 }
+/*I am just trying things out - Jai learning how to comment as well*/
 
 @media only screen and (max-width: 1042px) {
   .wrapper {
